@@ -1,6 +1,8 @@
 package com.wjy;
 
 /**
+ * jps
+ * jstack pid
  * @author wangjunyao
  * @version 1.0.0
  * @Description TODO
