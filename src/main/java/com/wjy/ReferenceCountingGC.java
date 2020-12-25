@@ -1,7 +1,7 @@
 package com.wjy;
 
 /**
- * -XX:PrintGC  ：  控制台打印GC日志
+ * -XX:+PrintGCDetails  :  控制台打印GC日志
  * testGC()方法执行后，objA和objB会不会被回收呢？
  * @author wangjunyao
  * @version 1.0.0
